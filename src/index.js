@@ -2,7 +2,7 @@ import ReactDOM from 'react-dom'
 import React from 'react'
 
 //import  from "./js/components/ ";
-//import './index.scss'
+import './index.scss'
 
 const App = () => (
   <div className="testBox">
